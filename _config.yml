@@ -4,7 +4,7 @@
 
 url: http://twqingsong.github.com
 title: 修身齐家
-subtitle: To be better.
+subtitle: 治国平天下.
 author: yqsqq
 simple_search: http://google.com/search
 description:
@@ -93,7 +93,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-38983233-1
 
 # Facebook Like
 facebook_like: false
